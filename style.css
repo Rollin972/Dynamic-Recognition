@@ -1,0 +1,29 @@
+body
+{
+   background-size: cover; 
+   background-repeat: no-repeat;
+   font-family: 'Viaoda Libre', cursive;
+}
+
+.header
+{
+    background: linear-gradient(#ABDCFF, #0396FF);
+    width : 100%; 
+}
+
+#foot
+{
+    position: fixed;
+    background-color: gray;
+    bottom: 0px;
+    width : 100%;
+}
+.button1{
+     font-size: 25px;
+}
+
+canvas{
+     border: mediumblue 3px dashed;
+     box-shadow: mediumturquoise 10px 10px 10px;
+     border-radius: 20px;
+}
